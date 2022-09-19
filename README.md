@@ -1,4 +1,4 @@
 # Fullstack
 
-This will be the Fullstack bootcamp
-And will go over how to be a fullstack developer
+This repo is for the Fullstack bootcamp
+i'll make sure to push all the tasks completed on this journey to becoming a software engineer!
