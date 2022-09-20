@@ -1,7 +1,30 @@
-div{
+*{
     font-family: monospace;
+}
+
+body{
+    background-color: beige;
 }
 
 .h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(50, 168, 129);
+}
+
+.caption{
+    background-color: rgb(50, 56, 62);
+}
+
+h2{
+    background-color: gray;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    opacity: 0.4;
+}
+
+a:hover{
+    opacity: 1;
 }
