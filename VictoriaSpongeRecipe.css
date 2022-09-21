@@ -19,10 +19,18 @@ h2{
     background-color: gray;
 }
 
-.lists{
+#lists{
+    background-color: bisque;
     border: 4px solid black;
     width: 20%;
     padding: 2%;
+}
+
+#methodlist{
+    background-color: bisque;
+    border: 4px solid black;
+    width: 41%;
+    padding: 3%;
 }
 
 a{
