@@ -1,5 +1,6 @@
 *{
     font-family: monospace;
+    justify-items: center;
 }
 
 body{
@@ -22,6 +23,7 @@ h2{
 #lists{
     background-color: bisque;
     border: 4px solid black;
+    border-radius: 25px;
     width: 20%;
     padding: 2%;
 }
@@ -29,6 +31,7 @@ h2{
 #methodlist{
     background-color: bisque;
     border: 4px solid black;
+    border-radius: 30px;
     width: 41%;
     padding: 3%;
 }
