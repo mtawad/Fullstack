@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 100%;
+    overflow: auto;
+    background-color: #FFFFFF;
+}
+
+.top-nav{
+    padding: 0;
+    margin: 0 0 0 250px;
+    list-style-type: none;
+}
+
+.top-nav-items{
+    float: left;
+}
+
+.top-nav-items a{
+    width: 100px;
+    display: block;
+    padding: 30px 20px;
+    text-decoration: none;
+    font-family: 'Helvetica Neue';
+    font-weight: 500;
+    color: black;
+    text-align: center;
+}
+
+.top-nav-items a:hover{
+    background-color: rgb(237, 237, 237);
+}
+
+.logo img{
+    position: absolute;
+    margin-top: 1.4%;
+    margin-left: 1.5%;
+}
+
+.top-nav-solution{
+    float: left;
+}
+
+.top-nav-solution a{
+    width: 100px;
+    display: block;
+    padding: 30px 20px;
+    text-decoration: none;
+    font-family: 'Helvetica Neue';
+    font-weight: 500;
+    color: blue;
+    text-align: center;
+}
+
+.top-nav-solution a:hover{
+    color: lightgrey;
+}
+
+.top-nav :last-child{
+    float: right;
+}
+
+
+
+.top-nav-join{
+    float: right;
+    margin-right: 1%;
+    margin-top: 1.7%;
+}
+
+.top-nav-join a{
+    width: 100px;
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: 'Helvetica Neue';
+    font-weight: 500;
+    color: white;
+    background-color:rgb(85 83 255);
+    opacity: 0.7;
+    text-align: center;
+}
+
+.top-nav-join a:hover{
+    opacity: 1;
+}
+
+.navbar{
+    border-bottom: 1px solid lightgrey;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    z-index: 999;
+}
+
+/* ---------------------- */
+
+
+
+.contents{
+    font-family: 'Helvetica Neue';
+}
+
+.contents{
+    width: 50%;
+    margin:auto;
+    line-height: 1.5;
+    font-size: large;   
+}
+
+.mini-heading{
+    display: flex;
+    gap: 3%;
+    font-family: 'Helvetica Neue'; 
+    font-size: 12px;
+    width: 50%;
+    margin:auto;
+}
+
+.mini-heading a{
+    text-decoration: none;
+    color: blue;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    display: inline-block;
+}
+
+#articledate{
+    font-size: small;
+    line-height: 0;
+}
+
+#amanda{
+    border-radius: 50%;
+    width: 35px;
+  }
